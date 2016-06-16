@@ -4,6 +4,7 @@
 module.exports = {
 	'absol': {title: 'absol', name: 'Absol', card: 'http://assets17.pokemon.com/assets/cms2/img/cards/web/XY6/XY6_EN_40.png', publicid: '359', rarity: 'Rare', collection: ['Darkness', 'UU-Pack', 'XY-Roaring Skies', 'Gen3'], points: 6},
 	'absolex': {title: 'absolex', name: 'Absol EX', card: 'http://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY62.png', publicid: '359EX', rarity: 'Epic', collection: ['Darkness', 'UU-Pack', 'XY-Promo', 'EX-Pack', 'Gen3'], points: 10},
+	'absolex2': {title: 'absolex2', name: 'Absol EX', card: 'http://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY63.png', publicid: '359EX2', rarity: 'Epic', collection: ['Darkness', 'UU-Pack', 'Gen3', ''EX-Pack', XY-Promo], points: 15},
 	'accelgor': {title: 'accelgor', name: 'Accelgor', card: 'http://assets10.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_9.png', publicid: '617', rarity: 'Uncommon', collection: ['Grass', 'RU-Pack', 'XY-Furious Fists', 'Gen5'], points: 3},
 	'acetrainer': {title: 'acetrainer', name: 'Ace Trainer', card: 'http://assets5.pokemon.com/assets/cms2/img/cards/web/XY7/XY7_EN_69.png', publicid: 'actrn', rarity: 'Rare', collection: ['Trainer', 'Supporter', 'XY-Ancient Origins'], points: 6},
 	'acrobike': {title: 'acrobike', name: 'Acrobike', card: 'http://assets14.pokemon.com/assets/cms2/img/cards/web/XY5/XY5_EN_122.png', publicid: 'acro', rarity: 'Uncommon', collection: ['Trainer', 'Item', 'XY-Primal Clash'], points: 3},
